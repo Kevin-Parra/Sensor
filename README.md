@@ -25,17 +25,17 @@
 
 <h4>Results</h4>
 
-<h5>Device POST</h5>
-<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/postdevice.PNG?raw=true"/>
-
 <h5>Device GET</h5>
-<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/getdevice.PNG?raw=true"/>
+<img src="https://user-images.githubusercontent.com/81264746/170850089-232f22cc-fa70-42fb-8f9e-566ed7d3aa82.png"/>
+
+<h5>Device POST</h5>
+<img src="https://user-images.githubusercontent.com/81264746/170850106-83163a3b-87ae-46aa-9c8d-8492b5339f64.png"/>
 
 <h5>User POST</h5>
-<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/postuser.PNG?raw=true"/>
+<img src="https://user-images.githubusercontent.com/81264746/170850124-20f4951f-8c02-458c-9547-8c20cf2b61da.png"/>
 
-<h5>Client Results</h5>
-<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/client.PNG?raw=true"/>
+<h5>Client.py Results</h5>
+<img src="https://user-images.githubusercontent.com/81264746/170850138-08fa18fa-e401-4f9c-becd-a3f656055a47.png"/>
 
-<h5>Server Results</h5>
-<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/server.PNG?raw=true"/>
+<h5>Server Results, running when we start the Client.py</h5>
+<img src="https://user-images.githubusercontent.com/81264746/170850160-1428dc30-aae9-4e1f-a229-f302e824e997.png"/>
