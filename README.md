@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/81264746/170850106-83163a3b-87ae-46aa-9c8d-8492b5339f64.png"/>
 
 <h5>User POST</h5>
-<img src="image](https://user-images.githubusercontent.com/81264746/170850124-20f4951f-8c02-458c-9547-8c20cf2b61da.png"/>
+<img src="https://user-images.githubusercontent.com/81264746/170850124-20f4951f-8c02-458c-9547-8c20cf2b61da.png"/>
 
 <h5>Client.py Results</h5>
 <img src="https://user-images.githubusercontent.com/81264746/170850138-08fa18fa-e401-4f9c-becd-a3f656055a47.png"/>
