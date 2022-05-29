@@ -16,7 +16,7 @@
 
 <h4>Client</h4>
 <ul>
-  <li>Declares a dictionary called data that will recieve the random numbers while(while loop) the server is opened.</li>
+  <li>Declares a dictionary called data that will receive the random numbers while the server is opened, this function just happens when you start up the server.</li>
   <li>Transforms data or the request into a json.</li>
   <li>Uses jsoned data to work as a POST endpoint called devices.</li>
   <li>Check the respective sensor's numbers and tell us if the number is or not less than 15.</li>
