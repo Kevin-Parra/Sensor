@@ -1,27 +1,41 @@
-# Sensor
+<h1>I.4. Project Develop</h1>
+<h2>Universidad Tenológica de Chihuahua BIS</h2>
+<h5><i>Student:Kevin Parra - Group:TIDBIS51M - IoT Applications - 28/05/2022</i></h5>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+<h4>Description</h4>
+<p>This is is an application developed with Python with the framework called Flask, is a like a<b>client-server connection, showing our results using the postman to receive the GET and POST.</p>
 
-## Development server
+<h4>Server</h4>
+<ul>
+  <li>Establishes GET endpoint for devices, to receive the results using POSTMAN.</li>
+  <li>Establishes POST endpoint for devices and users, as the previous part.</li>
+</ul>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h4>iiot_server</h4>
+<p>Is just a function that works as a sensor with random numbers, it gets numbers from 0 to 50</p>
 
-## Code scaffolding
+<h4>Client</h4>
+<ul>
+  <li>Declares a dictionary called data that will recieve the random numbers while(while loop) the server is opened.</li>
+  <li>Transforms data or the request into a json.</li>
+  <li>Uses jsoned data to work as a POST endpoint called devices.</li>
+  <li>Check the respective sensor's numbers and tell us if the number is or not less than 15.</li>
+  <li>Uses time library to send repeat the while loop each .5.</li>
+</ul>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h4>Results</h4>
 
-## Build
+<h5>Device POST</h5>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/postdevice.PNG?raw=true"/>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h5>Device GET</h5>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/getdevice.PNG?raw=true"/>
 
-## Running unit tests
+<h5>User POST</h5>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/postuser.PNG?raw=true"/>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h5>Client Results</h5>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/client.PNG?raw=true"/>
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h5>Server Results</h5>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/server.PNG?raw=true"/>
